@@ -1,0 +1,22 @@
+{
+  "name": "mvc-designpattern-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3",
+    "socket.io": "^4.4.1",
+    "validator": "^13.7.0"
+  },
+  "serverkey": "B1smill4hUJIKOM"
+}
