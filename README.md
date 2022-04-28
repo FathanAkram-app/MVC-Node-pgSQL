@@ -26,6 +26,7 @@ npx nodemon index.js
 - No Callback Hell
 - Password and Email Validation
 - Unique Username/Email
+- And more...
 
 ### Modules
 - socket.io
